@@ -1,7 +1,5 @@
 Config for Putty
 
-Current IP: 10.10.0.51
-
 Termainal: Default
 
 Window: Line of srcollback 20000
