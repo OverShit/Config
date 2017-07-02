@@ -1,0 +1,18 @@
+[user]
+    name = OverShit 
+    email = z2373477@163.com
+[color]
+    ui = auto
+[commit]
+    template = /home/chenshaogui/.gitmessage
+[core]
+    editor = vim
+    filemode = false
+[log]
+    date = short
+[branch]
+	autosetup = always 
+[push]
+	default = simple 
+[http]
+	postBuffer = 524288000
